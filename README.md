@@ -5,7 +5,7 @@
 
 # TrySync
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![GitHub contributors](https://img.shields.io/github/contributors/TryEnergy/TrySync.svg)](https://github.com/TryEnergy/TrySync/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/TryEnergy/TrySync.svg)](https://github.com/TryEnergy/TrySync/issues)
 [![GitHub stars](https://img.shields.io/github/stars/TryEnergy/TrySync.svg)](https://github.com/TryEnergy/TrySync/stargazers)
